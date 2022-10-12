@@ -1,0 +1,8 @@
+.Rproj.user
+*.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+Data/eBird Basic Dataset January 2022 - Brisbane/*
+Data/eBird Filtered Dataset/*

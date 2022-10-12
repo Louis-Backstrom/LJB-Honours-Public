@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='360.00pt' height='360.00pt' viewBox='0 0 360.00 360.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwzNjAuMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='360.00' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwzNjAuMDA=)'>
+<rect x='0.000000000000032' y='0.00' width='360.00' height='360.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNDcuODN8MzU0LjUyfDUuNDh8MzI4LjUw'>
+    <rect x='47.83' y='5.48' width='306.69' height='323.02' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDcuODN8MzU0LjUyfDUuNDh8MzI4LjUw)'>
+<rect x='47.83' y='5.48' width='306.69' height='323.02' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='68.74' y='20.16' width='125.47' height='293.66' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
+<rect x='208.14' y='301.44' width='125.47' height='12.38' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
+<rect x='68.74' y='42.61' width='125.47' height='271.21' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
+<rect x='208.14' y='278.99' width='125.47' height='34.83' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
+</g>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwzNjAuMDA=)'>
+<polyline points='47.83,328.50 47.83,5.48 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='42.89' y='316.97' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='42.89' y='217.31' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>20000</text>
+<text x='42.89' y='117.65' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>40000</text>
+<text x='42.89' y='17.99' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>60000</text>
+<polyline points='45.09,313.82 47.83,313.82 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='45.09,214.16 47.83,214.16 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='45.09,114.50 47.83,114.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='45.09,14.84 47.83,14.84 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='47.83,328.50 354.52,328.50 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='131.47,331.24 131.47,328.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='270.88,331.24 270.88,328.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<text x='131.47' y='339.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='27.39px' lengthAdjust='spacingAndGlyphs'>FALSE</text>
+<text x='270.88' y='339.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='23.94px' lengthAdjust='spacingAndGlyphs'>TRUE</text>
+<text x='201.17' y='352.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='107.06px' lengthAdjust='spacingAndGlyphs'>Protected Area Status</text>
+<text transform='translate(13.36,166.99) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='104.56px' lengthAdjust='spacingAndGlyphs'>Number of Checklists</text>
+</g>
+</svg>

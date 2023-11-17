@@ -20,7 +20,7 @@ select <- dplyr::select
 eBirdFilter <- askYesNo(msg = "Do you want to re-run the eBird Filter?")        # for re-running the eBird filter - shouldn't need to do this unless making big changes
 
 if (eBirdFilter == TRUE) {
-  source("R/eBird_Filter.R")  
+  source("R/eBirdFilter.R")  
 }
 
 preplots <- askYesNo(msg = "Do you want to reload from the saved state?")       # for reloading saved state (saves lots of time!) - leave if running fresh

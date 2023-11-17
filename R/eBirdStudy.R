@@ -65,7 +65,7 @@ species_model_changes <- tibble(
   fullinformed = character(),
 )
 
-for (i in 1:length(sp)) {                                                       # run each species
+for (i in c(65, 106)) {                                                       # run each species
   species <- sp[i]
   
   zf_data <- zf %>%                                                             # species-specific dataframe
@@ -140,7 +140,7 @@ for (i in 1:length(sp)) {                                                       
       aes(ymin = plogis(nullinformed_pred - qnorm(0.975) * nullinformed_se),
           ymax = plogis(nullinformed_pred + qnorm(0.975) * nullinformed_se),
           colour = habitat)) +
-    labs(x = "Year", y = "Detection Rate", subtitle = "Null-informed Model",
+    labs(x = "Year", y = "Reporting Rate", subtitle = "Null Model",
          colour = "Habitat Type")
   
   plot_semiinformed <- plot_base +                                              # plot semi-informed model
@@ -155,7 +155,7 @@ for (i in 1:length(sp)) {                                                       
       aes(ymin = plogis(semiinformed_pred - qnorm(0.975) * semiinformed_se),
           ymax = plogis(semiinformed_pred + qnorm(0.975) * semiinformed_se),
           colour = habitat)) +
-    labs(x = "Year", y = "Detection Rate", subtitle = "Semi-informed Model")
+    labs(x = "Year", y = "Reporting Rate", subtitle = "Additive Model")
   
   plot_fullinformed <- plot_base +                                              # plot fully-informed model
     geom_line(
@@ -169,7 +169,7 @@ for (i in 1:length(sp)) {                                                       
       aes(ymin = plogis(fullinformed_pred - qnorm(0.975) * fullinformed_se),
           ymax = plogis(fullinformed_pred + qnorm(0.975) * fullinformed_se),
           colour = habitat)) +
-    labs(x = "Year", y = "Detection Rate", subtitle = "Full-informed Model")
+    labs(x = "Year", y = "Reporting Rate", subtitle = "Interactive Model")
   
   plot_combined <- ggarrange(                                                   # arrange plots
     ncol = 3, plot_nullinformed, plot_semiinformed, plot_fullinformed,

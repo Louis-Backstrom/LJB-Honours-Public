@@ -136,8 +136,8 @@
 <text x='139.40' y='221.99' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2019</text>
 <text x='165.25' y='221.99' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2021</text>
 <text x='113.55' y='234.58' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='22.23px' lengthAdjust='spacingAndGlyphs'>Year</text>
-<text transform='translate(13.36,125.33) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='72.78px' lengthAdjust='spacingAndGlyphs'>Detection Rate</text>
-<text x='40.58' y='32.01' style='font-size: 11.00px; font-family: "Arial";' textLength='98.45px' lengthAdjust='spacingAndGlyphs'>Null-informed Model</text>
+<text transform='translate(13.36,125.33) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='74.01px' lengthAdjust='spacingAndGlyphs'>Reporting Rate</text>
+<text x='40.58' y='32.01' style='font-size: 11.00px; font-family: "Arial";' textLength='59.93px' lengthAdjust='spacingAndGlyphs'>Basic Model</text>
 </g>
 <defs>
   <clipPath id='cpMTkyLjAwfDM4NC4wMHwxOC42NnwyNDIuNDg='>
@@ -235,8 +235,8 @@
 <text x='331.40' y='221.99' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2019</text>
 <text x='357.25' y='221.99' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2021</text>
 <text x='305.55' y='234.58' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='22.23px' lengthAdjust='spacingAndGlyphs'>Year</text>
-<text transform='translate(205.36,125.33) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='72.78px' lengthAdjust='spacingAndGlyphs'>Detection Rate</text>
-<text x='232.58' y='32.01' style='font-size: 11.00px; font-family: "Arial";' textLength='104.57px' lengthAdjust='spacingAndGlyphs'>Semi-informed Model</text>
+<text transform='translate(205.36,125.33) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='74.01px' lengthAdjust='spacingAndGlyphs'>Reporting Rate</text>
+<text x='232.58' y='32.01' style='font-size: 11.00px; font-family: "Arial";' textLength='72.17px' lengthAdjust='spacingAndGlyphs'>Additive Model</text>
 </g>
 <defs>
   <clipPath id='cpMzg0LjAwfDU3Ni4wMHwxOC42NnwyNDIuNDg='>
@@ -334,34 +334,34 @@
 <text x='523.40' y='221.99' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2019</text>
 <text x='549.25' y='221.99' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2021</text>
 <text x='497.55' y='234.58' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='22.23px' lengthAdjust='spacingAndGlyphs'>Year</text>
-<text transform='translate(397.36,125.33) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='72.78px' lengthAdjust='spacingAndGlyphs'>Detection Rate</text>
-<text x='424.58' y='32.01' style='font-size: 11.00px; font-family: "Arial";' textLength='97.22px' lengthAdjust='spacingAndGlyphs'>Full-informed Model</text>
-<rect x='139.36' y='242.48' width='297.28' height='45.52' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<text x='144.84' y='269.18' style='font-size: 11.00px; font-family: "Arial";' textLength='61.57px' lengthAdjust='spacingAndGlyphs'>Habitat Type</text>
-<line x1='213.85' y1='256.60' x2='227.67' y2='256.60' style='stroke-width: 2.13; stroke: #F8766D; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<circle cx='220.76' cy='256.60' r='1.42' style='stroke-width: 0.71; stroke: #F8766D; stroke-opacity: 0.50; fill: #F8766D; fill-opacity: 0.50;' />
-<line x1='213.85' y1='256.60' x2='227.67' y2='256.60' style='stroke-width: 2.13; stroke: #F8766D; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<line x1='213.85' y1='273.88' x2='227.67' y2='273.88' style='stroke-width: 2.13; stroke: #B79F00; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<circle cx='220.76' cy='273.88' r='1.42' style='stroke-width: 0.71; stroke: #B79F00; stroke-opacity: 0.50; fill: #B79F00; fill-opacity: 0.50;' />
-<line x1='213.85' y1='273.88' x2='227.67' y2='273.88' style='stroke-width: 2.13; stroke: #B79F00; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<line x1='283.49' y1='256.60' x2='297.31' y2='256.60' style='stroke-width: 2.13; stroke: #00BA38; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<circle cx='290.40' cy='256.60' r='1.42' style='stroke-width: 0.71; stroke: #00BA38; stroke-opacity: 0.50; fill: #00BA38; fill-opacity: 0.50;' />
-<line x1='283.49' y1='256.60' x2='297.31' y2='256.60' style='stroke-width: 2.13; stroke: #00BA38; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<line x1='283.49' y1='273.88' x2='297.31' y2='273.88' style='stroke-width: 2.13; stroke: #00BFC4; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<circle cx='290.40' cy='273.88' r='1.42' style='stroke-width: 0.71; stroke: #00BFC4; stroke-opacity: 0.50; fill: #00BFC4; fill-opacity: 0.50;' />
-<line x1='283.49' y1='273.88' x2='297.31' y2='273.88' style='stroke-width: 2.13; stroke: #00BFC4; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<line x1='366.33' y1='256.60' x2='380.15' y2='256.60' style='stroke-width: 2.13; stroke: #619CFF; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<circle cx='373.24' cy='256.60' r='1.42' style='stroke-width: 0.71; stroke: #619CFF; stroke-opacity: 0.50; fill: #619CFF; fill-opacity: 0.50;' />
-<line x1='366.33' y1='256.60' x2='380.15' y2='256.60' style='stroke-width: 2.13; stroke: #619CFF; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<line x1='366.33' y1='273.88' x2='380.15' y2='273.88' style='stroke-width: 2.13; stroke: #F564E3; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<circle cx='373.24' cy='273.88' r='1.42' style='stroke-width: 0.71; stroke: #F564E3; stroke-opacity: 0.50; fill: #F564E3; fill-opacity: 0.50;' />
-<line x1='366.33' y1='273.88' x2='380.15' y2='273.88' style='stroke-width: 2.13; stroke: #F564E3; stroke-opacity: 0.50; stroke-linecap: butt;' />
-<text x='234.88' y='259.75' style='font-size: 8.80px; font-family: "Arial";' textLength='30.81px' lengthAdjust='spacingAndGlyphs'>Built Up</text>
-<text x='234.88' y='277.03' style='font-size: 8.80px; font-family: "Arial";' textLength='41.07px' lengthAdjust='spacingAndGlyphs'>Dry Forest</text>
-<text x='304.52' y='259.75' style='font-size: 8.80px; font-family: "Arial";' textLength='29.84px' lengthAdjust='spacingAndGlyphs'>Estuary</text>
-<text x='304.52' y='277.03' style='font-size: 8.80px; font-family: "Arial";' textLength='54.78px' lengthAdjust='spacingAndGlyphs'>Non-Remnant</text>
-<text x='387.36' y='259.75' style='font-size: 8.80px; font-family: "Arial";' textLength='42.88px' lengthAdjust='spacingAndGlyphs'>Wet Forest</text>
-<text x='387.36' y='277.03' style='font-size: 8.80px; font-family: "Arial";' textLength='32.13px' lengthAdjust='spacingAndGlyphs'>Wetland</text>
+<text transform='translate(397.36,125.33) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='74.01px' lengthAdjust='spacingAndGlyphs'>Reporting Rate</text>
+<text x='424.58' y='32.01' style='font-size: 11.00px; font-family: "Arial";' textLength='83.79px' lengthAdjust='spacingAndGlyphs'>Interactive Model</text>
+<rect x='137.77' y='242.48' width='300.46' height='45.52' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='143.25' y='269.18' style='font-size: 11.00px; font-family: "Arial";' textLength='61.57px' lengthAdjust='spacingAndGlyphs'>Habitat Type</text>
+<line x1='211.49' y1='256.60' x2='225.32' y2='256.60' style='stroke-width: 2.13; stroke: #F8766D; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<circle cx='218.41' cy='256.60' r='1.42' style='stroke-width: 0.71; stroke: #F8766D; stroke-opacity: 0.50; fill: #F8766D; fill-opacity: 0.50;' />
+<line x1='211.49' y1='256.60' x2='225.32' y2='256.60' style='stroke-width: 2.13; stroke: #F8766D; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<line x1='211.49' y1='273.88' x2='225.32' y2='273.88' style='stroke-width: 2.13; stroke: #B79F00; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<circle cx='218.41' cy='273.88' r='1.42' style='stroke-width: 0.71; stroke: #B79F00; stroke-opacity: 0.50; fill: #B79F00; fill-opacity: 0.50;' />
+<line x1='211.49' y1='273.88' x2='225.32' y2='273.88' style='stroke-width: 2.13; stroke: #B79F00; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<line x1='281.74' y1='256.60' x2='295.56' y2='256.60' style='stroke-width: 2.13; stroke: #00BA38; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<circle cx='288.65' cy='256.60' r='1.42' style='stroke-width: 0.71; stroke: #00BA38; stroke-opacity: 0.50; fill: #00BA38; fill-opacity: 0.50;' />
+<line x1='281.74' y1='256.60' x2='295.56' y2='256.60' style='stroke-width: 2.13; stroke: #00BA38; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<line x1='281.74' y1='273.88' x2='295.56' y2='273.88' style='stroke-width: 2.13; stroke: #00BFC4; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<circle cx='288.65' cy='273.88' r='1.42' style='stroke-width: 0.71; stroke: #00BFC4; stroke-opacity: 0.50; fill: #00BFC4; fill-opacity: 0.50;' />
+<line x1='281.74' y1='273.88' x2='295.56' y2='273.88' style='stroke-width: 2.13; stroke: #00BFC4; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<line x1='368.25' y1='256.60' x2='382.07' y2='256.60' style='stroke-width: 2.13; stroke: #619CFF; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<circle cx='375.16' cy='256.60' r='1.42' style='stroke-width: 0.71; stroke: #619CFF; stroke-opacity: 0.50; fill: #619CFF; fill-opacity: 0.50;' />
+<line x1='368.25' y1='256.60' x2='382.07' y2='256.60' style='stroke-width: 2.13; stroke: #619CFF; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<line x1='368.25' y1='273.88' x2='382.07' y2='273.88' style='stroke-width: 2.13; stroke: #F564E3; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<circle cx='375.16' cy='273.88' r='1.42' style='stroke-width: 0.71; stroke: #F564E3; stroke-opacity: 0.50; fill: #F564E3; fill-opacity: 0.50;' />
+<line x1='368.25' y1='273.88' x2='382.07' y2='273.88' style='stroke-width: 2.13; stroke: #F564E3; stroke-opacity: 0.50; stroke-linecap: butt;' />
+<text x='232.53' y='259.75' style='font-size: 8.80px; font-family: "Arial";' textLength='30.81px' lengthAdjust='spacingAndGlyphs'>Built Up</text>
+<text x='232.53' y='277.03' style='font-size: 8.80px; font-family: "Arial";' textLength='41.07px' lengthAdjust='spacingAndGlyphs'>Dry Forest</text>
+<text x='302.77' y='259.75' style='font-size: 8.80px; font-family: "Arial";' textLength='29.84px' lengthAdjust='spacingAndGlyphs'>Estuary</text>
+<text x='302.77' y='277.03' style='font-size: 8.80px; font-family: "Arial";' textLength='54.78px' lengthAdjust='spacingAndGlyphs'>Non-Remnant</text>
+<text x='389.28' y='259.75' style='font-size: 8.80px; font-family: "Arial";' textLength='42.88px' lengthAdjust='spacingAndGlyphs'>Wet Forest</text>
+<text x='389.28' y='277.03' style='font-size: 8.80px; font-family: "Arial";' textLength='32.13px' lengthAdjust='spacingAndGlyphs'>Wetland</text>
 <text x='288.00' y='15.06' text-anchor='middle' style='font-size: 16.00px; font-weight: bold; font-style: italic; font-family: "Arial";' textLength='160.04px' lengthAdjust='spacingAndGlyphs'>Elseyornis melanops</text>
 </g>
 </svg>

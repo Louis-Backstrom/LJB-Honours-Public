@@ -65,7 +65,19 @@ species_model_changes <- tibble(
   fullinformed = character(),
 )
 
-for (i in c(65, 106)) {                                                       # run each species
+species_model_changes2 <- tibble(
+  species = character(),
+  habitat = character(),
+  nullinformed = character(),
+  semiinformed = character(),
+  fullinformed = character(),
+)
+
+
+### MODEL CHANGES 2 USES A BETTER METHOD TO ESTIMATE PER-HABITAT TRENDS!
+
+# for (i in c(65, 106)) {                                                       # run each species
+for (i in 1:length(sp)) {
   species <- sp[i]
   
   zf_data <- zf %>%                                                             # species-specific dataframe
@@ -140,7 +152,7 @@ for (i in c(65, 106)) {                                                       # 
       aes(ymin = plogis(nullinformed_pred - qnorm(0.975) * nullinformed_se),
           ymax = plogis(nullinformed_pred + qnorm(0.975) * nullinformed_se),
           colour = habitat)) +
-    labs(x = "Year", y = "Reporting Rate", subtitle = "Null Model",
+    labs(x = "Year", y = "Reporting Rate", subtitle = "Basic Model",
          colour = "Habitat Type")
   
   plot_semiinformed <- plot_base +                                              # plot semi-informed model
@@ -182,7 +194,7 @@ for (i in c(65, 106)) {                                                       # 
          plot = plot_combined, width = 8, height = 4)
   ggsave(filename = paste0("Figures/eBirdStudy/", species, ".png"),             
          plot = plot_combined, width = 8, height = 4)
-
+  
   zf_data_tests <- zf_data_tests %>%                                            # determine overall change from start to finish
     group_by(habitat) %>% 
     summarise(
@@ -211,6 +223,51 @@ for (i in c(65, 106)) {                                                       # 
   
   species_model_changes <- rbind(species_model_changes, zf_data_tests)
   
+  for (habitat_i in all_habitats) {
+    zf_data <- zf %>%                                                             # species-specific dataframe
+      filter(scientific_name == species) %>% 
+      mutate(species_observed = as.integer(species_observed),
+             habitat = relevel(as.factor(habitat), ref = habitat_i))
+    
+    nullinformed_glm <- glm(data = zf_data,                                       # run a basic, uninformed GLM
+                            formula = species_observed ~ aday,
+                            family = "binomial") 
+    nullinformed_sign <- if_else(
+      summary(nullinformed_glm)$coefficients["aday", "Pr(>|z|)"] < 0.05,
+      sign_chr(summary(nullinformed_glm)$coefficients["aday", "Estimate"]),
+      "n.s."
+    )
+    
+    semiinformed_glm <- glm(data = zf_data,                                       # run a simple, semi-informed GLM
+                            formula = species_observed ~ aday + habitat,
+                            family = "binomial")
+    semiinformed_sign <- if_else(
+      summary(semiinformed_glm)$coefficients["aday", "Pr(>|z|)"] < 0.05,
+      sign_chr(summary(semiinformed_glm)$coefficients["aday", "Estimate"]),
+      "n.s."
+    )
+    
+    fullinformed_glm <- glm(data = zf_data,                                       # run a complex, fully-informed GLM
+                            formula = species_observed ~ aday * habitat,
+                            family = "binomial")
+    fullinformed_sign <- if_else(
+      summary(fullinformed_glm)$coefficients["aday", "Pr(>|z|)"] < 0.05,
+      sign_chr(summary(fullinformed_glm)$coefficients["aday", "Estimate"]),
+      "n.s."
+    )
+    
+    zf_data_tests2 <- tibble(
+      species = species,
+      habitat = habitat_i,
+      nullinformed_sign = nullinformed_sign,
+      semiinformed_sign = semiinformed_sign,
+      fullinformed_sign = fullinformed_sign
+    )
+    
+    
+    species_model_changes2 <- rbind(species_model_changes2, zf_data_tests2)
+  }
+
   print(species)
 }
 
@@ -246,3 +303,27 @@ for (habitats in hab_proportions$habitat) {
   
   print(table)
 }
+
+table <- species_model_changes2 %>%                                            # Table Null vs Semi
+  mutate(across(.cols = 3:5, 
+                .fns = ~factor(.x, levels = c("-", "n.s.", "+")))) %>%
+  select(nullinformed_sign, semiinformed_sign) %>% 
+  table()
+
+print(table)
+
+table <- species_model_changes2 %>%                                            # Table Semi vs Full
+  mutate(across(.cols = 3:5, 
+                .fns = ~factor(.x, levels = c("-", "n.s.", "+")))) %>%
+  select(semiinformed_sign, fullinformed_sign) %>% 
+  table()
+
+print(table)
+
+table <- species_model_changes2 %>%                                            # Table Full vs Null
+  mutate(across(.cols = 3:5, 
+                .fns = ~factor(.x, levels = c("-", "n.s.", "+")))) %>%
+  select(fullinformed_sign, nullinformed_sign) %>% 
+  table()
+
+print(table)

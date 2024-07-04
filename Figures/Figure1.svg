@@ -1,243 +1,350 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='864.00pt' height='288.00pt' viewBox='0 0 864.00 288.00'>
-<defs>
-  <style type='text/css'><![CDATA[
-    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
-      fill: none;
-      stroke: #000000;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-      stroke-miterlimit: 10.00;
-    }
-    .svglite text {
-      white-space: pre;
-    }
-  ]]></style>
-</defs>
-<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
-<defs>
-  <clipPath id='cpMC4wMHw4NjQuMDB8MC4wMHwyODguMDA='>
-    <rect x='0.00' y='0.00' width='864.00' height='288.00' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwyODguMDA=)'>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 864 288" style="enable-background:new 0 0 864 288;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{clip-path:url(#SVGID_00000023980167522318876730000005229301762090751876_);}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1.07;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{clip-path:url(#SVGID_00000167381483372073516750000004367746907804759693_);}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#0000FF;fill-opacity:0.5;}
+	.st6{fill:#FF0000;fill-opacity:0.5;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:8.54px;}
+	.st9{clip-path:url(#SVGID_00000021799637985298962530000006292843843862345899_);}
+	.st10{fill:none;stroke:#000000;stroke-width:1.07;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:#4D4D4D;}
+	.st12{font-size:8.8px;}
+	.st13{fill:none;stroke:#333333;stroke-width:1.07;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st14{font-size:11px;}
+	.st15{enable-background:new    ;}
+	.st16{font-family:'Arial-BoldMT';}
+	.st17{font-size:14px;}
+	.st18{clip-path:url(#SVGID_00000174584722370548131770000017035883128919460249_);}
+	.st19{clip-path:url(#SVGID_00000115496930521441906080000009541230335108095118_);}
+	.st20{clip-path:url(#SVGID_00000124143563249060918710000008104626905384091580_);}
+	.st21{letter-spacing:4;}
+	.st22{clip-path:url(#SVGID_00000044151536653218674200000005567495383778112151_);}
+	.st23{clip-path:url(#SVGID_00000079474601148786723150000004796101272434043288_);}
+	.st24{stroke:#000000;stroke-width:0.71;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st25{fill:none;stroke:#000000;stroke-width:2.13;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st26{clip-path:url(#SVGID_00000043455881443425559400000002783596995959566775_);}
+</style>
+<rect y="0" class="st0" width="864" height="288"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="864" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000176724256651064610830000015467293885671772095_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
 </g>
-<defs>
-  <clipPath id='cpMC4wMHwyODguMDB8MC4wMHwyODguMDA='>
-    <rect x='0.00' y='0.00' width='288.00' height='288.00' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwyODguMDA=)'>
-<rect x='0.00' y='0.00' width='288.00' height='288.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+<g>
+	<defs>
+		<rect id="SVGID_00000173848552288980569190000015336348906107849879_" y="0" width="288" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000158708144399412442640000016301416431686273159_">
+		<use xlink:href="#SVGID_00000173848552288980569190000015336348906107849879_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000158708144399412442640000016301416431686273159_);">
+		<rect y="0" class="st2" width="288" height="288"/>
+	</g>
 </g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwyODguMDA=)'>
+<g>
+	<defs>
+		<rect id="SVGID_00000028289524137451448730000008821478476173429662_" y="0" width="864" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000021100164020113615590000011166835833129565628_">
+		<use xlink:href="#SVGID_00000028289524137451448730000008821478476173429662_"  style="overflow:visible;"/>
+	</clipPath>
 </g>
-<defs>
-  <clipPath id='cpNDcuOTN8MjgyLjUyfDIxLjI2fDI1Ni4yNw=='>
-    <rect x='47.93' y='21.26' width='234.59' height='235.02' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpNDcuOTN8MjgyLjUyfDIxLjI2fDI1Ni4yNw==)'>
-<rect x='47.93' y='21.26' width='234.59' height='235.02' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<rect x='58.59' y='231.61' width='15.23' height='5.76' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='80.35' y='228.70' width='15.23' height='8.67' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='102.11' y='201.72' width='15.23' height='35.65' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='123.88' y='186.64' width='15.23' height='50.73' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='145.64' y='157.84' width='15.23' height='79.53' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='167.40' y='146.48' width='15.23' height='90.89' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='189.16' y='88.93' width='15.23' height='148.45' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='210.92' y='73.47' width='15.23' height='163.90' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='232.69' y='31.94' width='15.23' height='205.43' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='254.45' y='40.45' width='15.23' height='196.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='60.77' y='138.59' width='15.23' height='98.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='82.53' y='138.86' width='15.23' height='98.51' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='104.29' y='138.86' width='15.23' height='98.51' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='126.05' y='138.86' width='15.23' height='98.51' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='147.81' y='138.59' width='15.23' height='98.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='169.58' y='138.86' width='15.23' height='98.51' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='191.34' y='138.86' width='15.23' height='98.51' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='213.10' y='138.86' width='15.23' height='98.51' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='234.86' y='138.59' width='15.23' height='98.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='256.62' y='138.86' width='15.23' height='98.51' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<text x='67.30' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='89.06' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='110.82' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='132.58' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='154.34' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='176.10' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='197.87' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='219.63' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='241.39' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='263.15' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
+<g>
+	<defs>
+		<rect id="SVGID_00000082329024139498188990000011617673046787383711_" x="47.9" y="21.3" width="234.6" height="235"/>
+	</defs>
+	<clipPath id="SVGID_00000130638168995762866030000016349439171352900518_">
+		<use xlink:href="#SVGID_00000082329024139498188990000011617673046787383711_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000130638168995762866030000016349439171352900518_);">
+		<rect x="47.9" y="21.3" class="st4" width="234.6" height="235"/>
+		<rect x="58.6" y="231.6" class="st5" width="15.2" height="5.8"/>
+		<rect x="80.3" y="228.7" class="st5" width="15.2" height="8.7"/>
+		<rect x="102.1" y="201.7" class="st5" width="15.2" height="35.6"/>
+		<rect x="123.9" y="186.6" class="st5" width="15.2" height="50.7"/>
+		<rect x="145.6" y="157.8" class="st5" width="15.2" height="79.5"/>
+		<rect x="167.4" y="146.5" class="st5" width="15.2" height="90.9"/>
+		<rect x="189.2" y="88.9" class="st5" width="15.2" height="148.5"/>
+		<rect x="210.9" y="73.5" class="st5" width="15.2" height="163.9"/>
+		<rect x="232.7" y="31.9" class="st5" width="15.2" height="205.4"/>
+		<rect x="254.4" y="40.4" class="st5" width="15.2" height="196.9"/>
+		<rect x="60.8" y="138.6" class="st6" width="15.2" height="98.8"/>
+		<rect x="82.5" y="138.9" class="st6" width="15.2" height="98.5"/>
+		<rect x="104.3" y="138.9" class="st6" width="15.2" height="98.5"/>
+		<rect x="126.1" y="138.9" class="st6" width="15.2" height="98.5"/>
+		<rect x="147.8" y="138.6" class="st6" width="15.2" height="98.8"/>
+		<rect x="169.6" y="138.9" class="st6" width="15.2" height="98.5"/>
+		<rect x="191.3" y="138.9" class="st6" width="15.2" height="98.5"/>
+		<rect x="213.1" y="138.9" class="st6" width="15.2" height="98.5"/>
+		<rect x="234.9" y="138.6" class="st6" width="15.2" height="98.8"/>
+		<rect x="256.6" y="138.9" class="st6" width="15.2" height="98.5"/>
+		<text transform="matrix(1 0 0 1 62.3149 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 84.0749 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 105.8349 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 127.5949 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 149.3549 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 171.1149 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 192.8849 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 214.6449 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 236.4049 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 258.1649 248.65)" class="st7 st8">***</text>
+	</g>
 </g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwyODguMDA=)'>
-<polyline points='47.93,256.27 47.93,21.26 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
-<text x='43.00' y='240.52' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='43.00' y='160.26' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>5000</text>
-<text x='43.00' y='79.99' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>10000</text>
-<polyline points='45.19,237.37 47.93,237.37 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='45.19,157.11 47.93,157.11 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='45.19,76.84 47.93,76.84 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='47.93,256.27 282.52,256.27 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
-<polyline points='67.30,259.01 67.30,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='132.58,259.01 132.58,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='197.87,259.01 197.87,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='263.15,259.01 263.15,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<text x='67.30' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2012</text>
-<text x='132.58' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2015</text>
-<text x='197.87' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2018</text>
-<text x='263.15' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2021</text>
-<text x='165.22' y='280.10' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='22.23px' lengthAdjust='spacingAndGlyphs'>Year</text>
-<text transform='translate(13.36,138.76) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='104.56px' lengthAdjust='spacingAndGlyphs'>Number of Checklists</text>
-<text x='47.93' y='13.36' style='font-size: 11.00px; font-family: "Arial";' textLength='217.81px' lengthAdjust='spacingAndGlyphs'>Bias: 0.325; 95% Bootstrap CI [0.321, 0.329]</text>
-<text x='5.05' y='15.03' style='font-size: 14.00px; font-weight: bold; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>A</text>
+<g>
+	<defs>
+		<rect id="SVGID_00000018947026914181004870000016339851440183174552_" y="0" width="864" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000103982522525350128570000014050048879075973524_">
+		<use xlink:href="#SVGID_00000018947026914181004870000016339851440183174552_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000103982522525350128570000014050048879075973524_);">
+		<line class="st10" x1="47.9" y1="256.3" x2="47.9" y2="21.3"/>
+		<rect x="38.1" y="233" class="st0" width="4.9" height="10.4"/>
+		<text transform="matrix(1 0 0 1 38.106 240.52)" class="st11 st7 st12">0</text>
+		<rect x="23.4" y="152.7" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 23.4233 160.2602)" class="st11 st7 st12">5000</text>
+		<rect x="18.5" y="72.4" class="st0" width="24.5" height="10.4"/>
+		<text transform="matrix(1 0 0 1 18.5293 79.9902)" class="st11 st7 st12">10000</text>
+		<line class="st13" x1="45.2" y1="237.4" x2="47.9" y2="237.4"/>
+		<line class="st13" x1="45.2" y1="157.1" x2="47.9" y2="157.1"/>
+		<line class="st13" x1="45.2" y1="76.8" x2="47.9" y2="76.8"/>
+		<line class="st10" x1="47.9" y1="256.3" x2="282.5" y2="256.3"/>
+		<line class="st13" x1="67.3" y1="259" x2="67.3" y2="256.3"/>
+		<line class="st13" x1="132.6" y1="259" x2="132.6" y2="256.3"/>
+		<line class="st13" x1="197.9" y1="259" x2="197.9" y2="256.3"/>
+		<line class="st13" x1="263.1" y1="259" x2="263.1" y2="256.3"/>
+		<rect x="57.5" y="259.9" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 57.5117 267.4999)" class="st11 st7 st12">2012</text>
+		<rect x="122.8" y="259.9" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 122.7915 267.4999)" class="st11 st7 st12">2015</text>
+		<rect x="188.1" y="259.9" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 188.0815 267.4999)" class="st11 st7 st12">2018</text>
+		<rect x="253.4" y="259.9" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 253.3618 267.4999)" class="st11 st7 st12">2021</text>
+		<text transform="matrix(1 0 0 1 154.1072 280.1)" class="st7 st14">Year</text>
+		<rect x="3.9" y="86.5" class="st0" width="13" height="104.5"/>
+		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 13.3574 191.0268)" class="st7 st14">Number of Checklists</text>
+		<rect x="47.9" y="3.9" class="st0" width="217.8" height="13"/>
+		<text transform="matrix(0.92 0 0 1 47.9302 13.3598)" class="st15"><tspan x="0" y="0" class="st7 st14">Bias</tspan><tspan x="21.4" y="0" class="st7 st14"> </tspan><tspan x="24.2" y="0" class="st7 st14">(H’):</tspan><tspan x="45" y="0" class="st7 st14"> </tspan><tspan x="47.8" y="0" class="st7 st14">0.325;</tspan><tspan x="78.4" y="0" class="st7 st14"> </tspan><tspan x="81.2" y="0" class="st7 st14">95%</tspan><tspan x="103.2" y="0" class="st7 st14"> </tspan><tspan x="106" y="0" class="st7 st14">Bootstrap</tspan><tspan x="153.1" y="0" class="st7 st14"> </tspan><tspan x="155.9" y="0" class="st7 st14">CI</tspan><tspan x="166.9" y="0" class="st7 st14"> </tspan><tspan x="169.7" y="0" class="st7 st14">[0.321,</tspan><tspan x="203.4" y="0" class="st7 st14"> </tspan><tspan x="206.2" y="0" class="st7 st14">0.329]</tspan></text>
+		<rect x="5.1" y="3" class="st0" width="10.1" height="17.3"/>
+		<text transform="matrix(1 0 0 1 5.0498 15.0302)" class="st16 st17">A</text>
+	</g>
 </g>
-<defs>
-  <clipPath id='cpMjg4LjAwfDU3Ni4wMHwwLjAwfDI4OC4wMA=='>
-    <rect x='288.00' y='0.00' width='288.00' height='288.00' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpMjg4LjAwfDU3Ni4wMHwwLjAwfDI4OC4wMA==)'>
-<rect x='288.00' y='0.00' width='288.00' height='288.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+<g>
+	<defs>
+		<rect id="SVGID_00000074411872731992238710000017923353942436373680_" x="288" y="0" width="288" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000047747378657786119730000010722862545528119441_">
+		<use xlink:href="#SVGID_00000074411872731992238710000017923353942436373680_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000047747378657786119730000010722862545528119441_);">
+		<rect x="288" y="0" class="st2" width="288" height="288"/>
+	</g>
 </g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwyODguMDA=)'>
+<g>
+	<defs>
+		<rect id="SVGID_00000082350539422462905550000005593139469600848539_" y="0" width="864" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000072971272097567342700000002494820830350951827_">
+		<use xlink:href="#SVGID_00000082350539422462905550000005593139469600848539_"  style="overflow:visible;"/>
+	</clipPath>
 </g>
-<defs>
-  <clipPath id='cpMzM1LjkzfDU3MC41MnwyMS4yNnwyNTYuMjc='>
-    <rect x='335.93' y='21.26' width='234.59' height='235.02' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpMzM1LjkzfDU3MC41MnwyMS4yNnwyNTYuMjc=)'>
-<rect x='335.93' y='21.26' width='234.59' height='235.02' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<rect x='381.33' y='131.69' width='26.49' height='105.68' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='419.17' y='159.43' width='26.49' height='77.95' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='457.01' y='180.51' width='26.49' height='56.87' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='343.50' y='31.94' width='26.49' height='205.43' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='532.68' y='228.71' width='26.49' height='8.66' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='494.85' y='142.11' width='26.49' height='95.26' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #0000FF; fill-opacity: 0.50;' />
-<rect x='385.12' y='70.29' width='26.49' height='167.08' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='422.95' y='106.45' width='26.49' height='130.92' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='460.79' y='203.03' width='26.49' height='34.35' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='347.28' y='62.94' width='26.49' height='174.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='536.47' y='227.24' width='26.49' height='10.13' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<rect x='498.63' y='204.44' width='26.49' height='32.93' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF0000; fill-opacity: 0.50;' />
-<text x='358.63' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='396.47' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='434.31' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='472.14' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='509.98' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
-<text x='547.82' y='248.65' text-anchor='middle' style='font-size: 8.54px; font-family: "Arial";' textLength='9.96px' lengthAdjust='spacingAndGlyphs'>***</text>
+<g>
+	<defs>
+		<rect id="SVGID_00000138532722894356688170000003464562384675587978_" x="335.9" y="21.3" width="234.6" height="235"/>
+	</defs>
+	<clipPath id="SVGID_00000023257335751841871520000005873003074483559305_">
+		<use xlink:href="#SVGID_00000138532722894356688170000003464562384675587978_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000023257335751841871520000005873003074483559305_);">
+		<rect x="335.9" y="21.3" class="st4" width="234.6" height="235"/>
+		<rect x="381.3" y="131.7" class="st5" width="26.5" height="105.7"/>
+		<rect x="419.2" y="159.4" class="st5" width="26.5" height="77.9"/>
+		<rect x="457" y="180.5" class="st5" width="26.5" height="56.9"/>
+		<rect x="343.5" y="31.9" class="st5" width="26.5" height="205.4"/>
+		<rect x="532.7" y="228.7" class="st5" width="26.5" height="8.7"/>
+		<rect x="494.9" y="142.1" class="st5" width="26.5" height="95.3"/>
+		<rect x="385.1" y="70.3" class="st6" width="26.5" height="167.1"/>
+		<rect x="423" y="106.4" class="st6" width="26.5" height="130.9"/>
+		<rect x="460.8" y="203" class="st6" width="26.5" height="34.4"/>
+		<rect x="347.3" y="62.9" class="st6" width="26.5" height="174.4"/>
+		<rect x="536.5" y="227.2" class="st6" width="26.5" height="10.1"/>
+		<rect x="498.6" y="204.4" class="st6" width="26.5" height="32.9"/>
+		<text transform="matrix(1 0 0 1 353.6449 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 391.4849 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 429.3249 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 467.1549 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 504.9949 248.65)" class="st7 st8">***</text>
+		<text transform="matrix(1 0 0 1 542.8348 248.65)" class="st7 st8">***</text>
+	</g>
 </g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwyODguMDA=)'>
-<polyline points='335.93,256.27 335.93,21.26 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
-<text x='331.00' y='240.52' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='331.00' y='195.76' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>5000</text>
-<text x='331.00' y='151.00' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>10000</text>
-<text x='331.00' y='106.23' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>15000</text>
-<text x='331.00' y='61.47' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>20000</text>
-<polyline points='333.19,237.37 335.93,237.37 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='333.19,192.61 335.93,192.61 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='333.19,147.85 335.93,147.85 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='333.19,103.08 335.93,103.08 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='333.19,58.32 335.93,58.32 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='335.93,256.27 570.52,256.27 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
-<polyline points='358.63,259.01 358.63,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='396.47,259.01 396.47,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='434.31,259.01 434.31,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='472.14,259.01 472.14,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='509.98,259.01 509.98,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='547.82,259.01 547.82,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<text x='358.63' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.70px' lengthAdjust='spacingAndGlyphs'>NR</text>
-<text x='396.47' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>BU</text>
-<text x='434.31' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='11.72px' lengthAdjust='spacingAndGlyphs'>DF</text>
-<text x='472.14' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='10.27px' lengthAdjust='spacingAndGlyphs'>Es</text>
-<text x='509.98' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='13.04px' lengthAdjust='spacingAndGlyphs'>We</text>
-<text x='547.82' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='13.67px' lengthAdjust='spacingAndGlyphs'>WF</text>
-<text x='453.22' y='280.10' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='61.57px' lengthAdjust='spacingAndGlyphs'>Habitat Type</text>
-<text transform='translate(301.36,138.76) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='104.56px' lengthAdjust='spacingAndGlyphs'>Number of Checklists</text>
-<text x='335.93' y='13.36' style='font-size: 11.00px; font-family: "Arial";' textLength='216.99px' lengthAdjust='spacingAndGlyphs'>Bias: 0.211; 95% Bootstrap CI [0.207, 0.214]</text>
-<text x='293.05' y='15.03' style='font-size: 14.00px; font-weight: bold; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>B</text>
+<g>
+	<defs>
+		<rect id="SVGID_00000066481512997118240540000001774529419288502952_" y="0" width="864" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000032613158855137148020000013561658607020028069_">
+		<use xlink:href="#SVGID_00000066481512997118240540000001774529419288502952_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000032613158855137148020000013561658607020028069_);">
+		<line class="st10" x1="335.9" y1="256.3" x2="335.9" y2="21.3"/>
+		<rect x="326.1" y="233" class="st0" width="4.9" height="10.4"/>
+		<text transform="matrix(1 0 0 1 326.1055 240.52)" class="st11 st7 st12">0</text>
+		<rect x="311.4" y="188.2" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 311.4238 195.7602)" class="st11 st7 st12">5000</text>
+		<rect x="306.5" y="143.4" class="st0" width="24.5" height="10.4"/>
+		<text transform="matrix(1 0 0 1 306.5293 150.9999)" class="st11 st7 st12">10000</text>
+		<rect x="306.5" y="98.7" class="st0" width="24.5" height="10.4"/>
+		<text transform="matrix(1 0 0 1 306.5293 106.2299)" class="st11 st7 st12">15000</text>
+		<rect x="306.5" y="53.9" class="st0" width="24.5" height="10.4"/>
+		<text transform="matrix(1 0 0 1 306.5293 61.4701)" class="st11 st7 st12">20000</text>
+		<line class="st13" x1="333.2" y1="237.4" x2="335.9" y2="237.4"/>
+		<line class="st13" x1="333.2" y1="192.6" x2="335.9" y2="192.6"/>
+		<line class="st13" x1="333.2" y1="147.9" x2="335.9" y2="147.9"/>
+		<line class="st13" x1="333.2" y1="103.1" x2="335.9" y2="103.1"/>
+		<line class="st13" x1="333.2" y1="58.3" x2="335.9" y2="58.3"/>
+		<line class="st10" x1="335.9" y1="256.3" x2="570.5" y2="256.3"/>
+		<line class="st13" x1="358.6" y1="259" x2="358.6" y2="256.3"/>
+		<line class="st13" x1="396.5" y1="259" x2="396.5" y2="256.3"/>
+		<line class="st13" x1="434.3" y1="259" x2="434.3" y2="256.3"/>
+		<line class="st13" x1="472.1" y1="259" x2="472.1" y2="256.3"/>
+		<line class="st13" x1="510" y1="259" x2="510" y2="256.3"/>
+		<line class="st13" x1="547.8" y1="259" x2="547.8" y2="256.3"/>
+		<text transform="matrix(1 0 0 1 352.2749 267.5)" class="st11 st7 st12">NR</text>
+		<text transform="matrix(1 0 0 1 390.3577 267.5)" class="st11 st7 st12">BU</text>
+		<text transform="matrix(1 0 0 1 428.4448 267.5)" class="st11 st7 st12">DF</text>
+		<rect x="467" y="259.9" class="st0" width="10.3" height="10.4"/>
+		<text transform="matrix(1 0 0 1 467.0049 267.4999)" class="st11 st7 st12">Es</text>
+		<text transform="matrix(1 0 0 1 503.4595 267.5)" class="st11 st7 st12">We</text>
+		<text transform="matrix(1 0 0 1 540.9794 267.5)" class="st11 st7 st12">WF</text>
+		<rect x="422.4" y="270.7" class="st0" width="61.6" height="13"/>
+		<text transform="matrix(1 0 0 1 422.4414 280.1)" class="st15"><tspan x="0" y="0" class="st7 st14 st21">Habita</tspan><tspan x="58.5" y="0" class="st7 st14">t </tspan></text>
+		<rect x="291.9" y="86.5" class="st0" width="13" height="104.5"/>
+		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 301.3574 191.0268)" class="st7 st14">Number of Checklists</text>
+		<rect x="335.9" y="3.9" class="st0" width="217" height="13"/>
+		<text transform="matrix(0.92 0 0 1 335.9297 13.3598)" class="st15"><tspan x="0" y="0" class="st7 st14">Bias</tspan><tspan x="21.4" y="0" class="st7 st14"> </tspan><tspan x="24.1" y="0" class="st7 st14">(H’):</tspan><tspan x="44.9" y="0" class="st7 st14"> </tspan><tspan x="47.5" y="0" class="st7 st14">0.211;</tspan><tspan x="78.1" y="0" class="st7 st14"> </tspan><tspan x="80.8" y="0" class="st7 st14">95%</tspan><tspan x="102.8" y="0" class="st7 st14"> </tspan><tspan x="105.5" y="0" class="st7 st14">Bootstrap</tspan><tspan x="152.6" y="0" class="st7 st14"> </tspan><tspan x="155.3" y="0" class="st7 st14">CI</tspan><tspan x="166.3" y="0" class="st7 st14"> </tspan><tspan x="168.9" y="0" class="st7 st14">[0.207,</tspan><tspan x="202.6" y="0" class="st7 st14"> </tspan><tspan x="205.3" y="0" class="st7 st14">0.214]</tspan></text>
+		<text transform="matrix(1 0 0 1 293.05 15.03)" class="st16 st17">B</text>
+	</g>
 </g>
-<defs>
-  <clipPath id='cpNTc2LjAwfDg2NC4wMHwwLjAwfDI4OC4wMA=='>
-    <rect x='576.00' y='0.00' width='288.00' height='288.00' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpNTc2LjAwfDg2NC4wMHwwLjAwfDI4OC4wMA==)'>
-<rect x='576.00' y='0.00' width='288.00' height='288.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+<g>
+	<defs>
+		<rect id="SVGID_00000009581814073437727850000008593672339155856048_" x="576" y="0" width="288" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000159465539437139628900000006442188274253352357_">
+		<use xlink:href="#SVGID_00000009581814073437727850000008593672339155856048_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000159465539437139628900000006442188274253352357_);">
+		<rect x="576" y="0" class="st2" width="288" height="288"/>
+	</g>
 </g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwyODguMDA=)'>
+<g>
+	<defs>
+		<rect id="SVGID_00000044136549037461661000000000612847251273519799_" y="0" width="864" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000165210450204716254280000010881417280374492334_">
+		<use xlink:href="#SVGID_00000044136549037461661000000000612847251273519799_"  style="overflow:visible;"/>
+	</clipPath>
 </g>
-<defs>
-  <clipPath id='cpNjE2LjU4fDg1OC41Mnw1LjQ4fDI1Ni4yNw=='>
-    <rect x='616.58' y='5.48' width='241.94' height='250.79' />
-  </clipPath>
-</defs>
-<g clip-path='url(#cpNjE2LjU4fDg1OC41Mnw1LjQ4fDI1Ni4yNw==)'>
-<rect x='616.58' y='5.48' width='241.94' height='250.79' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='627.58' cy='63.17' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='652.02' cy='124.69' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='676.46' cy='173.91' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='700.89' cy='161.60' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='725.33' cy='223.13' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='749.77' cy='223.13' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='774.21' cy='210.82' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='798.65' cy='198.52' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='823.09' cy='235.43' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<circle cx='847.52' cy='223.13' r='3.56' style='stroke-width: 0.71; fill: #000000;' />
-<polyline points='627.58,63.17 652.02,124.69 676.46,173.91 700.89,161.60 725.33,223.13 749.77,223.13 774.21,210.82 798.65,198.52 823.09,235.43 847.52,223.13 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='627.58,16.88 627.58,16.88 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='627.58,16.88 627.58,112.89 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='627.58,112.89 627.58,112.89 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='652.02,78.50 652.02,78.50 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='652.02,78.50 652.02,171.93 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='652.02,171.93 652.02,171.93 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='676.46,147.37 676.46,147.37 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='676.46,147.37 676.46,193.91 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='676.46,193.91 676.46,193.91 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='700.89,140.42 700.89,140.42 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='700.89,140.42 700.89,178.29 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='700.89,178.29 700.89,178.29 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='725.33,206.76 725.33,206.76 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='725.33,206.76 725.33,240.05 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='725.33,240.05 725.33,240.05 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='749.77,204.31 749.77,204.31 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='749.77,204.31 749.77,234.74 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='749.77,234.74 749.77,234.74 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='774.21,195.45 774.21,195.45 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='774.21,195.45 774.21,218.21 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='774.21,218.21 774.21,218.21 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='798.65,193.24 798.65,193.24 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='798.65,193.24 798.65,215.29 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='798.65,215.29 798.65,215.29 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='823.09,224.00 823.09,224.00 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='823.09,224.00 823.09,244.87 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='823.09,244.87 823.09,244.87 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='847.52,211.49 847.52,211.49 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='847.52,211.49 847.52,230.75 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
-<polyline points='847.52,230.75 847.52,230.75 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
+<g>
+	<defs>
+		<rect id="SVGID_00000160189293383272378750000008499247392336218507_" x="616.6" y="5.5" width="241.9" height="250.8"/>
+	</defs>
+	<clipPath id="SVGID_00000021839767531093154240000007927377737299506853_">
+		<use xlink:href="#SVGID_00000160189293383272378750000008499247392336218507_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000021839767531093154240000007927377737299506853_);">
+		<rect x="616.6" y="5.5" class="st4" width="241.9" height="250.8"/>
+		<circle class="st24" cx="627.6" cy="63.2" r="3.6"/>
+		<circle class="st24" cx="652" cy="124.7" r="3.6"/>
+		<circle class="st24" cx="676.5" cy="173.9" r="3.6"/>
+		<circle class="st24" cx="700.9" cy="161.6" r="3.6"/>
+		<circle class="st24" cx="725.3" cy="223.1" r="3.6"/>
+		<circle class="st24" cx="749.8" cy="223.1" r="3.6"/>
+		<circle class="st24" cx="774.2" cy="210.8" r="3.6"/>
+		<circle class="st24" cx="798.7" cy="198.5" r="3.6"/>
+		<circle class="st24" cx="823.1" cy="235.4" r="3.6"/>
+		<circle class="st24" cx="847.5" cy="223.1" r="3.6"/>
+		<polyline class="st25" points="627.6,63.2 652,124.7 676.5,173.9 700.9,161.6 725.3,223.1 749.8,223.1 774.2,210.8 798.7,198.5 
+			823.1,235.4 847.5,223.1 		"/>
+		<line class="st25" x1="627.6" y1="16.9" x2="627.6" y2="16.9"/>
+		<line class="st25" x1="627.6" y1="16.9" x2="627.6" y2="112.9"/>
+		<line class="st25" x1="627.6" y1="112.9" x2="627.6" y2="112.9"/>
+		<line class="st25" x1="652" y1="78.5" x2="652" y2="78.5"/>
+		<line class="st25" x1="652" y1="78.5" x2="652" y2="171.9"/>
+		<line class="st25" x1="652" y1="171.9" x2="652" y2="171.9"/>
+		<line class="st25" x1="676.5" y1="147.4" x2="676.5" y2="147.4"/>
+		<line class="st25" x1="676.5" y1="147.4" x2="676.5" y2="193.9"/>
+		<line class="st25" x1="676.5" y1="193.9" x2="676.5" y2="193.9"/>
+		<line class="st25" x1="700.9" y1="140.4" x2="700.9" y2="140.4"/>
+		<line class="st25" x1="700.9" y1="140.4" x2="700.9" y2="178.3"/>
+		<line class="st25" x1="700.9" y1="178.3" x2="700.9" y2="178.3"/>
+		<line class="st25" x1="725.3" y1="206.8" x2="725.3" y2="206.8"/>
+		<line class="st25" x1="725.3" y1="206.8" x2="725.3" y2="240.1"/>
+		<line class="st25" x1="725.3" y1="240.1" x2="725.3" y2="240.1"/>
+		<line class="st25" x1="749.8" y1="204.3" x2="749.8" y2="204.3"/>
+		<line class="st25" x1="749.8" y1="204.3" x2="749.8" y2="234.7"/>
+		<line class="st25" x1="749.8" y1="234.7" x2="749.8" y2="234.7"/>
+		<line class="st25" x1="774.2" y1="195.4" x2="774.2" y2="195.4"/>
+		<line class="st25" x1="774.2" y1="195.4" x2="774.2" y2="218.2"/>
+		<line class="st25" x1="774.2" y1="218.2" x2="774.2" y2="218.2"/>
+		<line class="st25" x1="798.7" y1="193.2" x2="798.7" y2="193.2"/>
+		<line class="st25" x1="798.7" y1="193.2" x2="798.7" y2="215.3"/>
+		<line class="st25" x1="798.7" y1="215.3" x2="798.7" y2="215.3"/>
+		<line class="st25" x1="823.1" y1="224" x2="823.1" y2="224"/>
+		<line class="st25" x1="823.1" y1="224" x2="823.1" y2="244.9"/>
+		<line class="st25" x1="823.1" y1="244.9" x2="823.1" y2="244.9"/>
+		<line class="st25" x1="847.5" y1="211.5" x2="847.5" y2="211.5"/>
+		<line class="st25" x1="847.5" y1="211.5" x2="847.5" y2="230.8"/>
+		<line class="st25" x1="847.5" y1="230.8" x2="847.5" y2="230.8"/>
+	</g>
 </g>
-<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHwyODguMDA=)'>
-<polyline points='616.58,256.27 616.58,5.48 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
-<text x='611.65' y='213.97' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.14px' lengthAdjust='spacingAndGlyphs'>0.20</text>
-<text x='611.65' y='152.45' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.14px' lengthAdjust='spacingAndGlyphs'>0.25</text>
-<text x='611.65' y='90.93' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.14px' lengthAdjust='spacingAndGlyphs'>0.30</text>
-<text x='611.65' y='29.40' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.14px' lengthAdjust='spacingAndGlyphs'>0.35</text>
-<polyline points='613.84,210.82 616.58,210.82 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='613.84,149.30 616.58,149.30 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='613.84,87.78 616.58,87.78 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='613.84,26.25 616.58,26.25 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='616.58,256.27 858.52,256.27 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
-<polyline points='627.58,259.01 627.58,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='700.89,259.01 700.89,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='774.21,259.01 774.21,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<polyline points='847.52,259.01 847.52,256.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
-<text x='627.58' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2012</text>
-<text x='700.89' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2015</text>
-<text x='774.21' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2018</text>
-<text x='847.52' y='267.50' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2021</text>
-<text x='737.55' y='280.10' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='22.23px' lengthAdjust='spacingAndGlyphs'>Year</text>
-<text transform='translate(589.36,130.88) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='100.90px' lengthAdjust='spacingAndGlyphs'>Bias Across Habitats</text>
-<text x='581.05' y='15.03' style='font-size: 14.00px; font-weight: bold; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>C</text>
+<g>
+	<defs>
+		<rect id="SVGID_00000102512657323551900430000002513089787233415079_" y="0" width="864" height="288"/>
+	</defs>
+	<clipPath id="SVGID_00000045620076724304527830000016251792675829067906_">
+		<use xlink:href="#SVGID_00000102512657323551900430000002513089787233415079_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000045620076724304527830000016251792675829067906_);">
+		<line class="st10" x1="616.6" y1="256.3" x2="616.6" y2="5.5"/>
+		<rect x="594.5" y="206.4" class="st0" width="17.1" height="10.4"/>
+		<text transform="matrix(1 0 0 1 594.5225 213.9702)" class="st11 st7 st12">0.20</text>
+		<rect x="594.5" y="144.9" class="st0" width="17.1" height="10.4"/>
+		<text transform="matrix(1 0 0 1 594.5225 152.4501)" class="st11 st7 st12">0.25</text>
+		<rect x="594.5" y="83.4" class="st0" width="17.1" height="10.4"/>
+		<text transform="matrix(1 0 0 1 594.5225 90.9301)" class="st11 st7 st12">0.30</text>
+		<rect x="594.5" y="21.8" class="st0" width="17.1" height="10.4"/>
+		<text transform="matrix(1 0 0 1 594.5225 29.3998)" class="st11 st7 st12">0.35</text>
+		<line class="st13" x1="613.8" y1="210.8" x2="616.6" y2="210.8"/>
+		<line class="st13" x1="613.8" y1="149.3" x2="616.6" y2="149.3"/>
+		<line class="st13" x1="613.8" y1="87.8" x2="616.6" y2="87.8"/>
+		<line class="st13" x1="613.8" y1="26.2" x2="616.6" y2="26.2"/>
+		<line class="st10" x1="616.6" y1="256.3" x2="858.5" y2="256.3"/>
+		<line class="st13" x1="627.6" y1="259" x2="627.6" y2="256.3"/>
+		<line class="st13" x1="700.9" y1="259" x2="700.9" y2="256.3"/>
+		<line class="st13" x1="774.2" y1="259" x2="774.2" y2="256.3"/>
+		<line class="st13" x1="847.5" y1="259" x2="847.5" y2="256.3"/>
+		<rect x="617.8" y="259.9" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 617.792 267.4999)" class="st11 st7 st12">2012</text>
+		<rect x="691.1" y="259.9" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 691.1016 267.4999)" class="st11 st7 st12">2015</text>
+		<rect x="764.4" y="259.9" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 764.4219 267.4999)" class="st11 st7 st12">2018</text>
+		<rect x="837.7" y="259.9" class="st0" width="19.6" height="10.4"/>
+		<text transform="matrix(1 0 0 1 837.7314 267.4999)" class="st11 st7 st12">2021</text>
+		<text transform="matrix(1 0 0 1 726.4372 280.1)" class="st7 st14">Year</text>
+		<rect x="579.9" y="80.4" class="st0" width="13" height="100.9"/>
+		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 589.3574 181.3178)" class="st15"><tspan x="0" y="0" class="st7 st14">Bias</tspan><tspan x="21.4" y="0" class="st7 st14"> </tspan><tspan x="24.2" y="0" class="st7 st14">Across</tspan><tspan x="57.8" y="0" class="st7 st14"> </tspan><tspan x="60.5" y="0" class="st7 st14">Habitats</tspan></text>
+		<text transform="matrix(1 0 0 1 581.05 15.03)" class="st16 st17">C</text>
+	</g>
 </g>
 </svg>
